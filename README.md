@@ -1,2 +1,7 @@
-# riddles
-This project is developed using HTML, CSS, Javascript.Riddle questions are generated using API.
+# Riddles
+HTML, CSS, and Javascript are used to create this project.Try out this brainteaser.Can you guess the answers to the challenging riddles and brainteasers on each level?
+
+## Demo
+Try this project in the following link :
+https://thirukumaran05.github.io/Riddles/
+
